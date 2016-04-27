@@ -1,0 +1,28 @@
+name: Ibiza Yoga Experience
+favicon: null
+layout_spectrum: 0.6031205160543323
+typography_spectrum: 0.34346000221557915
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#F7EDF0'
+    - '#F4CBC6'
+    - '#F4AFAB'
+    - '#F4EEA9'
+    - '#F4F482'
+  brandStrength: 0.4761095643043518
+  lightness: 0.2628903773147613
+  saturation: 0.8288617949001491
+  rhythmicContrast: 0.3716340505052358
+purpose: []
